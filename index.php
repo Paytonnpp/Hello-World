@@ -6,7 +6,7 @@ $name="MyName";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hellow World</title>
+    <title>Hello World</title>
 </head>
 <body>
     <h1>Hello Payton</h1>
